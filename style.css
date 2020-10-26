@@ -1,0 +1,68 @@
+*{
+    margin :0;
+    padding :0;
+    font-family: sans-serif;
+}
+body , html{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(245, 26, 216);
+}
+.imgg1{ 
+    height: 200px;
+    width: 300px;
+    visibility: hidden;
+
+}
+.img1{
+    height: 20px;
+    width: 20px;
+}
+.container1{
+    text-align:left;
+}
+ 
+.four{
+    height: 20px;
+    width: 10px;9
+}
+.im{
+    width: 400px;
+        height:350px;
+        border-radius:290px
+  
+        
+}
+.col{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: static;
+}
+.map{
+    height: 20px;
+    width: 36px;
+    position: left;
+    border-radius: 20px;    
+    
+}
+.nav{
+    background-color: darkblue;
+    width: 50px;
+    height: 100px;
+}
+.nav-link{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.buttn{
+  
+    size: 10px;
+    background-color: darkorchid;
+}
+.ilogo{
+    height: 220px;
+    width: 210px;
+border-radius: 30%;
+    
+}

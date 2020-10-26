@@ -1,0 +1,15 @@
+*{
+    margin :0;
+    padding :0;
+}
+body , html{
+    height: 100%;
+    width: 100%;
+    background-color: darkorchid;
+background-image: url(img1.png);
+background-repeat: no-repeat;
+  background-size: 1500px 700px;
+}
+.p1{
+    float: left;
+}
